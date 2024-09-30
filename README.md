@@ -7,8 +7,7 @@ found further below.
 
 The `hw` folder should contain your schematic and board files for your PCB or
 circuits. In labs 1-5 and 10, you will be creating schematics for your circuit
-in EAGLE. A setup tutorial can be found
-[here](https://www.shawnvictor.net/autodesk-eagle.html).
+in KiCad.
 
 ### 0.2 SW
 
