@@ -1,3 +1,10 @@
+# Lab 6 Introduction to PCB Design
+
+## Table of Contents
+
+- [Lab 6 Introduction to PCB Design](#lab-6-introduction-to-pcb-design)
+---
+
 ## 0 Repository Structure
 
 The typical explanation for the repo structure. Lab specific instructions can be
@@ -7,7 +14,8 @@ found further below.
 
 The `hw` folder should contain your schematic and board files for your PCB or
 circuits. In labs 1-5 and 10, you will be creating schematics for your circuit
-in KiCad.
+in EAGLE. A setup tutorial can be found
+[here](https://www.shawnvictor.net/autodesk-eagle.html).
 
 ### 0.2 SW
 
